@@ -30,11 +30,6 @@ export const Container = styled.div`
       border-radius: 12px;
       padding: 12px;
 
-      .body {
-        width: 100%;
-        height: 400px;
-       background-color:#1E90FF;
-      }
     }
 
 
