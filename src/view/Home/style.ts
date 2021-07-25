@@ -1,7 +1,8 @@
 import styled from 'styled-components';
 export const Container = styled.div`
-  width: 80%;
+  width: 100%;
   margin: auto;
+  background: #5252d4
 
   .nav{
     display: flex;
@@ -26,7 +27,7 @@ export const Container = styled.div`
       display: grid;
       text-align: center;
       height: 300px;
-      background:#1E90FF;
+      background: #7575dd;
       border-radius: 12px;
       padding: 12px;
 
