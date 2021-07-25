@@ -4,7 +4,6 @@ import Cart from '../../assets/cart.png';
 
 import { Container } from './style';
 import api from '../../services/api';
-import background from '../../assets/background.jpg'
 
 const products={
   "produtos": [
