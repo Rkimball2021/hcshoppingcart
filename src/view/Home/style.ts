@@ -21,7 +21,7 @@ export const Container = styled.div`
   section {
     height: 100;
     width: 100%;
-    background: #e2e2;
+    background:#5252d4;
     display: flex;
     justify-content: space-around;
 
@@ -29,7 +29,7 @@ export const Container = styled.div`
       display: grid;
       text-align: center;
       height: 300px;
-      background: #7575dd;
+      background:#dcd0ff;
       border-radius: 12px;
       padding: 12px;
 
