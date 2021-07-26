@@ -16,7 +16,8 @@ export const Container = styled.div`
     .cart{
       display: flex;
       justify-content: center;
-      align-items: right;
+      align-items: center;
+      margin right: 0px
       background:#ffaaab; 
     }
   }
