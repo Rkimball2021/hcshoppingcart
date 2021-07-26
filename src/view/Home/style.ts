@@ -3,7 +3,7 @@ export const Container = styled.div`
   width:100%
   height:auto;
   background-size: cover;
-  background-color:#7b68ee;
+  background-color:#feb300;
  
 
   .nav{
@@ -17,13 +17,14 @@ export const Container = styled.div`
       display: flex;
       justify-content: center;
       align-items: center;
+      background:#ffaaab; 
     }
   }
 
   section {
     height: 100vh;
     width: 100%;
-    background:#ccccff;
+    background:#ffaaab;
     display: flex;
     justify-content: space-around;
 
@@ -31,7 +32,7 @@ export const Container = styled.div`
       display: grid;
       text-align: center;
       height: 300px;
-      background:#7b68ee;
+      background:#ff5e6c;
       border-radius: 12px;
       padding:12px;
       padding: 11px;
