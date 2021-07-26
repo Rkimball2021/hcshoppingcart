@@ -15,12 +15,13 @@ export const Container = styled.div`
       display: flex;
       justify-content: center;
       align-items: center;
+      padding: 12px;
     }
   }
 
   section {
     height: 100 vh;
-    width: cover;
+    width: 100%;
     background:#5252d4;
     display: flex;
     justify-content: space-around;
@@ -28,10 +29,10 @@ export const Container = styled.div`
     .product-content{
       display: grid;
       text-align: center;
-      height: 300px;
+      height: 250px;
       background:#dcd0ff;
-      border-radius: 12px;
-      padding: 12px;
+      border-radius: 10px;
+      padding: 10px;
 
     }
 
