@@ -28,8 +28,8 @@ export const Container = styled.div`
 
     .product-content{
       display: grid;
-      text-align: center;
-      height: 250px;
+      text-align: center right;
+      height: 200 px;
       background:;#b48395
       border-radius: 12px;
       padding: 12px;
