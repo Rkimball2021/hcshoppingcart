@@ -23,7 +23,7 @@ export const Container = styled.div`
   section {
     height: 100vh;
     width: 100%;
-    background:#DCDOFF;
+    background:#ccccff;
     display: flex;
     justify-content: space-around;
 
