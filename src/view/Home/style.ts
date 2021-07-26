@@ -28,11 +28,11 @@ export const Container = styled.div`
 
     .product-content{
       display: grid;
-      text-align: center right;
-      height: 250 px;
+      text-align: center;
+      height: 300 px;
       background:#dcd0ff;
-      border-radius: 12px;
-      padding: 12px;
+      border-radius: 11px;
+      padding: 11px;
 
     }
 
