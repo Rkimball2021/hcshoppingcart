@@ -19,7 +19,7 @@ export const Container = styled.div`
   }
 
   section {
-    height: cover;
+    height: 100 vh;
     width: cover;
     background:#5252d4;
     display: flex;
