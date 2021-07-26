@@ -38,9 +38,9 @@ export const Container = styled.div`
       border-radius: 12px;
       padding:12px;
       padding: 11px;
-
-    }
-
+ }
+@media screen and (min-width:320px) and (max-width:1024px);
+}
 
   }
 `
