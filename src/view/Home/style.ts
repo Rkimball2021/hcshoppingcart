@@ -3,6 +3,7 @@ export const Container = styled.div`
   width: 100%;
   margin: auto;
   background: #5252d4;
+  background-size: cover;
 
   .nav{
     display: flex;
