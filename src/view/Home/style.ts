@@ -31,7 +31,7 @@ export const Container = styled.div`
       display: grid;
       text-align: center;
       height: 300px;
-      background:	#E6E6FA;
+      background:	#DCDOFF;
       border-radius: 12px;
       padding:12px;
       padding: 11px;
