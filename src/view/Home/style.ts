@@ -19,8 +19,8 @@ export const Container = styled.div`
   }
 
   section {
-    height: 100vh;
-    width: 100%;
+    height: cover;
+    width: cover;
     background:#5252d4;
     display: flex;
     justify-content: space-around;
