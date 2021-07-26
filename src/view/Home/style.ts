@@ -18,6 +18,7 @@ export const Container = styled.div`
       justify-content: center;
       align-items: center;
       margin right: 0px
+      right: 0px
       background:#ffaaab; 
     }
   }
