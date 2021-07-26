@@ -3,7 +3,7 @@ export const Container = styled.div`
   width:100%
   height:auto;
   background-size: cover;
-  background-color:#DCDOFF;
+  background-color:#7b68ee;
  
 
   .nav{
