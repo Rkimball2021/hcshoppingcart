@@ -29,7 +29,7 @@ export const Container = styled.div`
     .product-content{
       display: grid;
       text-align: center right;
-      height: 200 px;
+      height: 250 px;
       background:#dcd0ff;
       border-radius: 12px;
       padding: 12px;
