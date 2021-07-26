@@ -8,8 +8,8 @@ export const Container = styled.div`
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin left: 60px;
-    margin right:60px;
+    margin left: 80px;
+    margin right:80px;
 
     .cart{
       display: flex;
