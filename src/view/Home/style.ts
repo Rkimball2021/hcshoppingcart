@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 export const Container = styled.div`
-  background: #d8bfd8;
+  background:#7b68ee;
   background-size: cover;
  
 
@@ -22,7 +22,7 @@ export const Container = styled.div`
   section {
     height: 100vh;
     width: 100%;
-    background:#d8bfd8;
+    background:#7b68ee;
     display: flex;
     justify-content: space-around;
 
@@ -30,7 +30,7 @@ export const Container = styled.div`
       display: grid;
       text-align: center right;
       height: 200 px;
-      background:;#b48395
+      background:#dcd0ff;
       border-radius: 12px;
       padding: 12px;
 
