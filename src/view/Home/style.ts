@@ -10,14 +10,13 @@ export const Container = styled.div`
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin left: 80px;
-    margin right:80px;
+    margin left: 60px;
+    margin right:60px;
 
     .cart{
       display: flex;
       justify-content: center;
       align-items: center;
-      padding: 12px;
     }
   }
 
@@ -34,6 +33,7 @@ export const Container = styled.div`
       height: 300px;
       background:#7b68ee;
       border-radius: 11px;
+      padding: px
       padding: 11px;
 
     }
