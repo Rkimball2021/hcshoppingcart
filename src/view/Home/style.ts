@@ -1,8 +1,7 @@
 import styled from 'styled-components';
 export const Container = styled.div`
-  width: 100vh;
-  margin: auto;
   background: #7b68ee;
+  background-size: cover;
  
 
   .nav{
